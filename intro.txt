@@ -1,0 +1,13 @@
+How to play:
+Choose your character, and set out on an adventure to find the lost treasures of Neko-land!
+On your journey, you would encounter deadly beasts and monsters, that have for 
+long prevented others from obtaining the treasures.
+Using your character's specialized skills, fight them, defeat them, and win!
+
+Each character can attack an enemy physically or by casting a magic spell, and  the effectiveness would depend on their specialization. You need to keep         attacking the enemy till their HP becomes 0.
+
+Each character also has a certain amount of health points (HP) and magic points (MP). Everytime you cast a magic spell, 10 MP will be used. Whenever a monster  attacks you, your HP would reduce by some amount. If your HP drops to 0 at any   stage, it's game over!
+
+But don't worry, because you can use health potions that you would find on your journey, to restore your health!
+		
+Let's start!
